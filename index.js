@@ -1,3 +1,4 @@
+// valid as of 5th July 2023
 (() => {
     let count = 0;
     function getAllButtons() {
